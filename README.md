@@ -17,7 +17,8 @@ Project developed in React.js, using Context Api, implementing a list of tasks, 
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
-
+                         
+![todo-list-edit-remove](https://user-images.githubusercontent.com/53797220/95477722-0677f500-095f-11eb-810b-d1a065b78136.gif)
 
 ## :rocket: Technologies
 
