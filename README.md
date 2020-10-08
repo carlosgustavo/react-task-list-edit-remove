@@ -7,13 +7,34 @@ Task list, Edit Remove.
 Project developed in React.js, using Context Api, implementing a list of tasks, with the functionality of editing and removing tasks.
 </h4>
 <p align="center">
-  <img alt="languages" src="https://img.shields.io/github/languages/count/carlosgustavo/css-site-register-boxmodal">
-  <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/css-site-register-boxmodal">
-  <img alt="Último commit do GitHub" src="https://img.shields.io/github/last-commit/carlosgustavo/css-site-register-boxmodal">
-  <img alt="licence" src="https://img.shields.io/github/license/carlosgustavo/css-site-register-boxmodal">
+  <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/task-list-dit-remove">
+  <img alt="languages" src="https://img.shields.io/github/languages/count/carlosgustavo/task-list-dit-remove">
+  <img alt="Último commit do GitHub" src="hhttps://img.shields.io/github/last-commit/carlosgustavo/task-list-dit-remove">
+  <img alt="licence" src="https://img.shields.io/github/license/carlosgustavo/task-list-dit-remove">
 </p>
 <p align="center">
   <a href="#rocket-technologies"">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
+
+
+## :rocket: Technologies
+
+This project was developed with the following technologies:
+
+-  [ReactJS](https://reactjs.org/)
+-  [Context](https://pt-br.reactjs.org/docs/context.html)
+-  [CSS](https://www.w3schools.com/css/)
+-  [VS Code](https://code.visualstudio.com/)
+
+## :information_source: How To Use
+
+To run this Site, click on the index.html file
+
+## :memo: License
+This project is under the MIT license. See the [LICENSE](https://github.com/carlosgustavo/css-site-register-boxmodal/blob/master/LICENSE) for more information.
+
+---
+
+Developed by Carlos Gustavo 👨🏻‍💻️ [Get in touch!](https://www.linkedin.com/in/carlos-gustavo-a71757190/)
