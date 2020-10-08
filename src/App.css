@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600;900&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  /*background: linear-gradient(100deg, rgb(72, 153, 69) 50%, #b6b11ed9 0); */
+  background: rgba(20, 19, 19, 0.993) url('./assets/background.jpg') center;
+  max-width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-wrapper {
+  background: #f6faf6e5;
+  background-blend-mode: overlay, hard-light, normal;
+  max-width: 25%;
+  min-width: 100px;
+  max-width: 450px;
+  max-height: 800px;
+  padding: 30px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  box-shadow: 0 15px 30px rgba(16, 194, 221, 0.979);
+  /* box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4); */
+}
+
+.header h1 {
+  color: rgba(13, 51, 146, 0.986);
+  font-weight: 300;
+  text-align: center;
+  margin: 50px 20px 60px 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: space-between;
+  margin-bottom: 50px;
+  max-width: 100%;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.form .task-input {
+  max-width: 100%;
+}
+
+.list {
+  max-width: 90%;
+  margin: auto;
+  max-height: 300px;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+/* width */
+::-webkit-scrollbar {
+  max-width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-color: #aaa;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 10px;
+}
+
+.task-input {
+  background-color: #7b86a042;
+  border: 2px solid rgba(169, 169, 175, 0.524);
+  color: rgb(5, 45, 70);
+  font-size: 15px;
+  padding: 15px 10px 10px 20px;
+  margin-right: 10px;
+  width: 350px;
+  min-width: 50px;
+  border-radius: 4px;
+  height: 20px;
+}
+
+.buttons {
+  display: flex;
+}
+
+.btn {
+  margin: 10px;
+  max-width: 100px;
+}
+.buttons button:hover {
+  box-shadow: inset 0 0 0 2px #0c9be2ac, 0 0 1px rgba(0, 0, 0, 0);
+}
+.add-task-btn {
+  max-width: 100px;
+  width: 100px;
+  background-color: #5ccf73f3;
+  color: rgb(26, 25, 25);
+  border: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  border-radius: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  outline: none;
+  cursor: pointer;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+  padding-bottom: 5px;
+}
+
+.list-item span {
+  color: rgba(23, 73, 235, 0.83);
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px;
+}
+
+.task-btn {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.btn-delete i {
+  font-size: 16px;
+  color: rgba(204, 48, 48, 0.836);
+  margin-right: 20px;
+}
+.btn-delete i:hover {
+  transform: translateY(-3px);
+}
+
+.btn-edit i {
+  font-size: 16px;
+  color: rgba(29, 37, 192, 0.659);
+  margin-right: 20px;
+}
+.btn-edit i:hover {
+  transform: translateY(-3px);
+}
+
+.clear-btn {
+  width: 100px;
+  height: 35px;
+  background-color: #ca1634c1;
+  color: rgb(20, 20, 20);
+  border: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  border-radius: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  outline: none;
+  cursor: pointer;
+}
+
+.no-tasks {
+  color: rgb(117, 79, 79);
+  text-align: center;
+  font-size: 18px;
+  margin-top: 20px;
+}
