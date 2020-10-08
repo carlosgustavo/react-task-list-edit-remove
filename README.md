@@ -4,7 +4,7 @@ Task list, Edit Remove.
 </h1>
 
 <h4 align="center">
-Project developed in React.js, using Context Api, implementing a task list, with the functionality of editing and removing tasks.
+Project developed in React.js, using Context Api, implementing a list of tasks, with the functionality of editing and removing tasks.
 </h4>
 <p align="center">
   <img alt="languages" src="https://img.shields.io/github/languages/count/carlosgustavo/css-site-register-boxmodal">
