@@ -9,7 +9,7 @@ Project developed in React.js, using Context Api, implementing a list of tasks, 
 <p align="center">
   <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/task-list-dit-remove">
   <img alt="languages" src="https://img.shields.io/github/languages/count/carlosgustavo/task-list-dit-remove">
-  <img alt="Último commit do GitHub" src="hhttps://img.shields.io/github/last-commit/carlosgustavo/task-list-dit-remove">
+  <img alt="Último commit do GitHub" src="https://img.shields.io/github/last-commit/carlosgustavo/task-list-dit-remove">
   <img alt="licence" src="https://img.shields.io/github/license/carlosgustavo/task-list-dit-remove">
 </p>
 <p align="center">
