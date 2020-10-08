@@ -34,10 +34,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/carlosgustavo/react-text-pagination
+$ git clone https://github.com/carlosgustavo/task-list-dit-remove.git
 
 # Go into the repository
-$ cd react-text-pagination
+$ cd task-list-dit-remove
 
 # Install dependencies
 $ yarn install
