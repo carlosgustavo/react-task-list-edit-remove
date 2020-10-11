@@ -48,7 +48,7 @@ $ yarn start
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/carlosgustavo/css-site-register-boxmodal/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/carlosgustavo/react-task-list-edit-remove/blob/master/README.md) for more information.
 
 ---
 
