@@ -25,7 +25,7 @@ Project developed in React.js, using Context Api, implementing a list of tasks, 
 This project was developed with the following technologies:
 
 -  [ReactJS](https://reactjs.org/)
--  [Context](https://pt-br.reactjs.org/docs/context.html)
+-  [Context-Api](https://pt-br.reactjs.org/docs/context.html)
 -  [CSS](https://www.w3schools.com/css/)
 -  [VS Code](https://code.visualstudio.com/)
 
