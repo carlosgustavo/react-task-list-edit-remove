@@ -20,6 +20,12 @@ Project developed in React.js, using Context Api, implementing a list of tasks, 
                          
 ![todo-list-edit-remove](https://user-images.githubusercontent.com/53797220/95477722-0677f500-095f-11eb-810b-d1a065b78136.gif)
 
+<p align="center">
+  <a href="https://carlosgustavo-react-task-list-edit-remove.netlify.app/" target="_blank">
+    <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png">
+  </a>
+</p>
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
