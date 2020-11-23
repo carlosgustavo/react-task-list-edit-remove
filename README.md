@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Task list, Edit Remove.
+Gerenciador de tarefas, edit remove.
 </h1>
 
 <h4 align="center">
